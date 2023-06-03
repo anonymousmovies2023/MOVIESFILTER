@@ -2,7 +2,7 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}\n𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
 
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/Rocky0987654>DORAEMON 𝙏𝙂</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/SRXNETWORKOWNER>SRXNETWORKOWNER 𝙏𝙂</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -10,11 +10,11 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁-𝙱𝙾𝚃 𝚟3.0.0"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://t.me/MEGAMOVIESELLER>MOVIESMEGACOLLECTION_BOT</a>
+- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href==https://t.me/SRXNETWORKOWNER>SRXNETWORKOWNER</a>
 
-<b>DEVS:</b>
-- 𝙳𝚎𝚟 1<a href=https://t.me/MEGAMOVIESELLER>MOVIESMEGACOLLECTION_BOT 𝚃𝙶</a>
-- 𝙳𝚎𝚟 2<a href=https://t.me/Rocky0987654>OWNER</a>"""
+<b>OWNER:</b>
+- OWNER 1<a href=https://t.me/SRXNETWORKOWNER>SRXNETWORKOWNER </a>
+- OWNER 2<a href=https://t.me/MEGAMOVIESSELLER>CREATOR</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
@@ -76,7 +76,7 @@ class script(object):
 ›› /set_template - 𝚂𝙴𝚃 𝙲𝚄𝚂𝚃𝙾𝙼 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙵𝙾𝚁 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁. 
 ›› /get_template - 𝙶𝙴𝚃 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙾𝙵 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/Rocky0987654>DORAEMON TG</a>**"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/SRXNETWORKOWNER>SRXNETWORKOWNER TG</a>**"""
 
     CONNECTION_TXT = """Help: <b>Connections</b>
 
@@ -188,7 +188,7 @@ By @{} """
 
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
 
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/Rocky0987654>DORAEMON TG</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/SRXNETWORKOWNER>SRXNETWORKOWNER TG</a>"""
 
     RESTRIC_TXT = """➤ 𝐇𝐞𝐥𝐩: Mᴜᴛᴇ 🚫
 
